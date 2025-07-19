@@ -1,8 +1,8 @@
 {
   "name": "vs-motivation",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An npm packege to provide motivation quets",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
