@@ -84,15 +84,14 @@ const motivationalQuotesArrayEnglish = [
 ];
 
 
-export const motivationalQuotesHinglish =()=>{
-    const quote = motivationalQuotesArrayHinglish[Math.floor(Math.random()* motivationalQuotesArrayHinglish.length)]
+export const motivationalQuotesHinglish =async()=>{
+    const quote =  motivationalQuotesArrayHinglish[Math.floor(Math.random()* motivationalQuotesArrayHinglish.length)]
     // console.log(quote)
     return quote
 }
 
-export const motivationalQuotesEnglish =()=>{
+export const motivationalQuotesEnglish =async()=>{
     const quote = motivationalQuotesArrayEnglish[Math.floor(Math.random()* motivationalQuotesArrayEnglish.length)]
     // console.log(quote)
     return quote
 }
-
