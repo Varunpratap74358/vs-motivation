@@ -86,11 +86,13 @@ const motivationalQuotesArrayEnglish = [
 
 export const motivationalQuotesHinglish =()=>{
     const quote = motivationalQuotesArrayHinglish[Math.floor(Math.random()* motivationalQuotesArrayHinglish.length)]
-    console.log(quote)
+    // console.log(quote)
+    return quote
 }
 
 export const motivationalQuotesEnglish =()=>{
     const quote = motivationalQuotesArrayEnglish[Math.floor(Math.random()* motivationalQuotesArrayEnglish.length)]
-    console.log(quote)
+    // console.log(quote)
+    return quote
 }
 
