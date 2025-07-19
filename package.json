@@ -1,0 +1,23 @@
+{
+  "name": "vs-motivation",
+  "version": "1.0.0",
+  "description": "An npm packege to provide motivation quets",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varunpratap74358/vs-motivation.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "varun singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Varunpratap74358/vs-motivation/issues"
+  },
+  "homepage": "https://github.com/Varunpratap74358/vs-motivation#readme"
+}
